@@ -1,0 +1,10 @@
+.update{
+    position: absolute;
+    top: 0;
+    background-color: #343a40;
+    padding: 100px;
+}
+.icon{
+ color: #d13545;
+ cursor: pointer;
+}
